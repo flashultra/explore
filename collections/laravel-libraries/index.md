@@ -4,7 +4,6 @@ items:
  - laravel-mix/laravel-mix
  - filamentphp/filament
  - bavix/laravel-wallet
- - mpociot/teamwork
  - hammerstonedev/fast-paginate
  - opcodesio/log-viewer
  - devtical/laravel-helpers

@@ -1,6 +1,5 @@
 ---
 items:
- - bcrypt-ruby/bcrypt-ruby
  - zeroclipboard/zeroclipboard
  - github/resque
  - leereilly/swot
@@ -29,7 +28,6 @@ items:
  - ajaxorg/ace
  - brianmario/charlock_holmes
  - puppetlabs/puppet
- - nanoc/nanoc
  - github/hoosegow
  - gjtorikian/html-proofer
  - babel/babel

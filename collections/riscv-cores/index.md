@@ -43,7 +43,6 @@ items:
  - ultraembedded/riscv
  - zxmarcos/riscado-v
  - racerxdl/riskow
- - dev-board-tech/hdl-core-riscv-lite
  - DuinOS/riscuinho
  - Saanlima/RISC5Verilog_psram
  - Saanlima/RISC5Verilog_lpddr

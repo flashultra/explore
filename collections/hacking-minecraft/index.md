@@ -15,7 +15,6 @@ items:
  - SpigotMC/BungeeCord
  - walterhiggins/ScriptCraft
  - MinecraftForge/MinecraftForge
- - ddevault/TrueCraft
  - MachineMuse/MachineMusePowersuits
  - micdoodle8/Galacticraft
  - Bukkit/Bukkit

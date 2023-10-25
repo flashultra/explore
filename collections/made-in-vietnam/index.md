@@ -15,8 +15,6 @@ items:
  - chiphuyen/ml-interviews-book
  - huytd/kanban-app
  - undertheseanlp/underthesea
- - tiepvupsu/tabml_book
- - hoanhan101/algo
  - vinbigdata-medical/vindr-lab
  - vanhuyz/CycleGAN-TensorFlow
  - TablePlus/TablePlus

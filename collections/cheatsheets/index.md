@@ -1,6 +1,5 @@
 ---
 items:
- - LeCoupa/awesome-cheatsheets
  - detailyang/awesome-cheatsheet
  - FavioVazquez/ds-cheatsheets
  - gto76/python-cheatsheet

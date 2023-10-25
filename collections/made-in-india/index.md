@@ -20,7 +20,6 @@ items:
  - spacecloud-io/space-cloud
  - shivammathur/setup-php
  - kubeshop/botkube
- - SigNoz/signoz
  - uvdesk/community-skeleton
  - CRED-CLUB/synth-android
  - xkrishguptaa/gardevoir

@@ -9,7 +9,6 @@ items:
  - ribernhard/PS239T
  - msalganik/soc596_f2016
  - nealcaren/python-tutorials
- - jacobeisenstein/gt-css-class
  - jacobeisenstein/gt-nlp-class
  - eytan/www-15-tutorial
  - pablobarbera/POIR613
@@ -19,7 +18,6 @@ items:
  - honeyAndSw/computational-social-science
  - 5harad/css
  - jaeyk/comp_thinking_social_science
- - jhofman/css2013
  - mac389/snappy
  - peterdalle/mediacommtools
  - dmasad/cssGradWorkshops
@@ -34,7 +32,6 @@ items:
  - chandrasg/lexica
  - PsiPhiTheta/Computational-SocSci-Labs
  - maczokni/R-for-Criminologists
- - maczokni/crimemapping_textbook_bookdown
  - maczokni/r-socialsci
  - CJWorkbench
  - CullenBoldt/CSSproject

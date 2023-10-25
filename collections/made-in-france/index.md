@@ -9,7 +9,6 @@ items:
  - huggingface
  - traefik
  - deezer/spleeter
- - algolia/places
  - ovh/cds
  - nuxt
  - api-platform/api-platform

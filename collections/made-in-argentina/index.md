@@ -11,7 +11,6 @@ items:
   - cazala/coin-hive
   - decentraland/marketplace
   - dropwizard/dropwizard
-  - andresriancho/w3af
 display_name: Made in Argentina
 created_by: marcosnils
 image: made-in-argentina.png

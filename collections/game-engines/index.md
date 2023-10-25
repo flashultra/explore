@@ -21,7 +21,6 @@ items:
  - melonjs/melonJS
  - BabylonJS/Babylon.js
  - WhitestormJS/whs.js
- - wellcaffeinated/PhysicsJS
  - playcanvas/engine
  - cocos2d/cocos2d-html5
  - craftyjs/Crafty
@@ -47,7 +46,6 @@ items:
  - aws/lumberyard
  - FlaxEngine/FlaxEngine
  - ObEngine/ObEngine
- - KilledByAPixel/LittleJS
  - ppy/osu-framework
  - gosu/gosu
  - cerberusxdev/cerberus

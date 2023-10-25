@@ -27,7 +27,6 @@ items:
  - wasm3/wasm3
  - codeceptjs/CodeceptJS
  - paulmillr/es6-shim
- - dmytrodanylyk/android-process-button
  - glushchenko/fsnotes
  - Tyrrrz/DiscordChatExporter
  - mourner/suncalc
@@ -37,7 +36,6 @@ items:
  - dmytrodanylyk/shadow-layout
  - mourner/rbush
  - tailhook/vagga
- - JSMonk/hegel
  - Tyrrrz/YoutubeExplode
  - dmytrodanylyk/folding-plugin
  - mapbox/delaunator

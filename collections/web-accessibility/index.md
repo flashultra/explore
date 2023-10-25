@@ -13,7 +13,6 @@ items:
  - reactjs/react-a11y
  - angular/protractor-accessibility-plugin
  - AccessLint/accesslint.js
- - 18F/accessibility
  - prettydiff/a11y-tools
  - dequelabs/axe-cli
  - stevefaulkner/HTML5accessibility

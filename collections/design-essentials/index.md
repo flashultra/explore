@@ -12,7 +12,6 @@ items:
  - twbs/ratchet
  - IanLunn/Hover
  - connors/photon
- - basscss/basscss
  - atlemo/SubtlePatterns
  - mrmrs/colors
 display_name: Design essentials

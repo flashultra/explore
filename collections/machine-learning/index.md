@@ -34,7 +34,6 @@ items:
  - Yorko/mlcourse.ai
  - jtoy/awesome-tensorflow
  - nlintz/TensorFlow-Tutorials
- - pkmital/tensorflow_tutorials
  - https://www.youtube.com/embed/KsbQ_HNX6Pg
  - https://www.youtube.com/embed/bHvf7Tagt18
  - https://www.youtube.com/embed/ILsA4nyG7I0

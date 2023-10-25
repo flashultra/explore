@@ -27,9 +27,7 @@ items:
  - cheshire137/hubnav
  - ryanflorence/github-plusone-extension
  - Mottie/GitHub-userscripts
- - rgehan/octolenses
  - homerchen19/github-file-icons
- - StylishThemes/GitHub-Dark
  - xthexder/wide-github
  - berzniz/github_pr_tree
  - N1ck/gifs-for-github

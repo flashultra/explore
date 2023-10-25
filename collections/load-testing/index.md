@@ -6,8 +6,6 @@ items:
  - apache/jmeter
  - bengadbois/pewpew
  - Blazemeter/taurus
- - BuoyantIO/slow_cooker
- - codesenberg/bombardier
  - fcsonline/drill
  - flood-io/element
  - fortio/fortio
